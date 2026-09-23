@@ -6,7 +6,6 @@
 * ⚡ Thực hiện lựa chọn linh kiện, kiểm tra nguồn, đo kiểm và **hardware debugging** trên prototype.
 * 🧪 Thực hiện **bring-up, testing và validation** nhằm đảm bảo board hoạt động ổn định trước khi sản xuất thử.
 * 🏭 Hỗ trợ chuẩn bị **BOM, Gerber và tài liệu phục vụ sản xuất**.
-* 🚀 Sản phẩm đã hoàn thành **trial production 600 mẫu**.
 * 🔒 Dự án thuộc phạm vi bảo mật của công ty; không công khai schematic, PCB và thông số kỹ thuật chi tiết.
 
 ## 3D Model 
